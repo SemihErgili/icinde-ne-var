@@ -1,63 +1,27 @@
-# 👋 Semih Ahmet Ergili - Ne Var Ne Yok
+# 👋 Semih Ahmet Ergili - İçinde Ne  Var ?
 
-![logo](https://img.icons8.com/color/48/food-barcode.png)  
-📷🍎 Fotoğrafla veya barkodla yiyecek tarayıp, kalori ve besin değerlerini öğrenebileceğin, günlük hedef takibi yapabileceğin akıllı bir beslenme asistanı!
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Open Source](https://img.shields.io/badge/Açık%20Kaynak-Destekçisi-181717?style=for-the-badge&logo=github&logoColor=white)
 
-🛠️ Node.js ve Express altyapısıyla geliştirilmiş modern, işlevsel bir uygulamadır. Kullanıcı girişi, görsel işleme ve hedef sistemi içerir.
+📚 Node.js & Express ile geliştirilmiş basit ve işlevsel bir Diyet Takip Uygulaması.  
+🚀 Diyet Takibi, Fotoğraftan Kalori Hesabı, güncelleme ve silme özellikleri var.
 
----
+⚙️ **node_modules klasörü repoda yoktur!**  
+Modülleri aşağıdaki linkten indirip projenin kök dizinine çıkarmanız gerekiyor:  
+[Modüller İndir](https://link-to-your-node_modules.zip)  
 
-## 🚀 Özellikler
-
-| İkon | Özellik |
-|------|---------|
-| ![scan](https://img.icons8.com/fluency/24/barcode-scanner.png) | **Barkod ile Ürün Tanıma** – Ürünün barkodunu okut, anında detayları öğren |
-| ![camera](https://img.icons8.com/color/24/camera--v1.png) | **Fotoğraf ile Kalori Hesaplama** – Görsel işleme sayesinde tanımlama |
-| ![user](https://img.icons8.com/ios-filled/24/user-shield.png) | **Üyelik Sistemi** – Kayıt ol, giriş yap, verilerini takip et |
-| ![target](https://img.icons8.com/color/24/goal.png) | **Günlük Kalori Hedefi** – Hedefini belirle, ilerlemeyi takip et |
-| ![history](https://img.icons8.com/ios-glyphs/24/time-machine.png) | **Geçmiş Kaydı** – Tüm taramaların kaydedilir |
+Alternatif olarak terminalde proje klasöründe `npm install` komutunu çalıştırarak da modülleri otomatik indirebilirsiniz.
 
 ---
 
-## ⚙️ Kurulum
-
-> `node_modules` klasörü repoda yer almıyor. Gerekli modülleri indirmeniz gerekiyor.
-
-### 🔧 Yükleme ve Çalıştırma
+## Başlatmak için:
 
 ```bash
-git clone https://github.com/SemihErgili/ne-var-ne-yok.git
-cd ne-var-ne-yok
+git clone https://github.com/SemihErgili/kitapci-site.git
+cd kitapci-site
 
-# Gerekli modülleri yükleyin
+# Modülleri manuel indirdiyseniz zip'i açın, yoksa:
 npm install
 
-# Uygulamayı başlatın
 npm start
-📂 Uygulama adresi: http://localhost:3000
-
-🧠 Kullanılan Teknolojiler
-Node.js
-
-Express.js
-
-MongoDB
-
-Görüntü işleme (AI destekli)
-
-🧑‍💻 Geliştirici
-Semih Ahmet Ergili
-🌍 Açık kaynak – katkılara açıktır!
-
-yaml
-Kopyala
-Düzenle
-
----
-
-İkonlar tamamen **[Icons8](https://icons8.com)** kaynaklı ve GitHub'da uyumlu.  
-İstersen ikonları yerel olarak projeye ekleyebiliriz ya da bu linkleri direkt README’de bırakabiliriz.
-
-> Ayrıca ekran görüntüsü (splash, tarama anı vs.) eklersen onları da 📸 "Örnek Görseller" başlığı altında gösteririm.
-
-İstersen onu da ekleyeyim mi?
