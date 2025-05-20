@@ -18,8 +18,8 @@ Alternatif olarak terminalde proje klasöründe `npm install` komutunu çalışt
 ## Başlatmak için:
 
 ```bash
-git clone https://github.com/SemihErgili/kitapci-site.git
-cd kitapci-site
+git clone https://github.com/SemihErgili/icinde-ne-var
+cd icinde-ne-var
 
 # Modülleri manuel indirdiyseniz zip'i açın, yoksa:
 npm install
